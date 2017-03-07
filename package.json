@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "Creating a to-do web application using AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FutoiSaru/angular-todo.git"
+  },
+  "author": "FutoiSaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FutoiSaru/angular-todo/issues"
+  },
+  "homepage": "https://github.com/FutoiSaru/angular-todo#readme"
+}
